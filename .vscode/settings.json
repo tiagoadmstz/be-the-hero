@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+    "projectManager.git.ignoredFolders": [
+        "backend/node_modules",
+        "frontend/node_modules",
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        ".haxelib"
+    ]
+}
